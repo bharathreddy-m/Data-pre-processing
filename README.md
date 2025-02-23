@@ -94,7 +94,7 @@ In machine learning, preprocessing techniques are essential for ensuring data qu
 - **Truncation**: Shortening sequences that are too long.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.txt] file for details.
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
 ## Contributing
 We welcome contributions to this project! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
