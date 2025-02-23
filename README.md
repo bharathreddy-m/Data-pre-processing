@@ -93,6 +93,9 @@ In machine learning, preprocessing techniques are essential for ensuring data qu
 - **Padding**: Making sequences of different lengths uniform.
 - **Truncation**: Shortening sequences that are too long.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE.txt] file for details.
+
 ## Conclusion
 These preprocessing techniques are essential for preparing data for machine learning models. They help enhance the quality of the dataset and can significantly impact the model's performance. This project serves as a comprehensive guide for anyone looking to understand data preprocessing in depth.
 
