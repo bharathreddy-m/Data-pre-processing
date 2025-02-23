@@ -96,6 +96,9 @@ In machine learning, preprocessing techniques are essential for ensuring data qu
 ## License
 This project is licensed under the MIT License - see the [LICENSE.txt] file for details.
 
+## Contributing
+We welcome contributions to this project! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+
 ## Conclusion
 These preprocessing techniques are essential for preparing data for machine learning models. They help enhance the quality of the dataset and can significantly impact the model's performance. This project serves as a comprehensive guide for anyone looking to understand data preprocessing in depth.
 
