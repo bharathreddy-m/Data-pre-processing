@@ -1,0 +1,29 @@
+# Data Manipulation and Analysis
+pandas==1.5.3
+numpy==1.24.0
+
+# Data Visualization
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# Scikit-learn for machine learning
+scikit-learn==1.2.0
+
+# Statsmodels for statistical modeling (optional for advanced techniques)
+statsmodels==0.13.5
+
+# Imbalanced-learn for handling imbalanced datasets
+imbalanced-learn==0.10.1
+
+# NLTK or spaCy for text preprocessing (choose one)
+nltk==3.7
+# or
+spacy==3.5.0
+
+# For PCA, LDA
+scikit-learn==1.2.0
+
+# For deep learning (if needed for augmentation)
+tensorflow==2.12.0
+# or
+torch==1.13.1  # For PyTorch
