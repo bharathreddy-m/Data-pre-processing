@@ -1,4 +1,4 @@
-# Titanic Dataset Preprocessing
+#### Titanic Dataset Preprocessing
 
 This repository showcases various data preprocessing techniques applied to the Titanic dataset. Preprocessing is a critical step in machine learning that ensures data quality and improves model performance. This README provides a detailed overview of the techniques implemented in this project.
 
